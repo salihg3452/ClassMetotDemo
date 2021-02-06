@@ -32,7 +32,7 @@ namespace ClassMetotDemo
             mManager.Listele(Musteri2);
             mManager.Listele(Musteri3);
 
-
+            //
             //Seçilen müşterileri foreach döngüsü ile konsol ekranına yazdıran Kod 
 
             /*
